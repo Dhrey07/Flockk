@@ -82,7 +82,6 @@ header{
     display: flex;
     align-items: center;
     position: relative;
-    /* margin-top: 9%; */
 }
 .main-left{
     width: 500px;
